@@ -6,4 +6,4 @@ To build this and flash to the IC you'll need Arduino IDE.
 
 I used AtTiny13A as the microcontroller for this.
 
-!(attiny13A.png)
+![schematic](attiny13A.png)
